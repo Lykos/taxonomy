@@ -1,0 +1,171 @@
+#separator:tab
+#html:true
+#tags column:8
+Hemiptera	Schnabelkerfe		Ordnung	"<img src=""img_202008261147131641183593603929142.jpg"">"	Pflanzenläuse, Scheidenschnäbler, Rundkopfzikaden, Spitzkopfzikaden, Wanzen	Neuflügler	
+Orthoptera	Heuschrecken		Ordnung	"<img src=""img_202008261157445948749134294171998.jpg"">"	Kurzfühlerschrecken, Langfühlerschrecken	Neuflügler	
+Hymenoptera	Hautflügler		Ordnung	"<img src=""img_202008261159583519709834670414023.jpg"">"	Pflanzenwespen, Tallienwespen	Neuflügler	
+Apocrita	Tallienwespen		Unterordnung	"<img src=""img_202008261201308580359232263375380.jpg"">"	Legimmen, Stechimmen	Hautflügler	
+Neoptera	Neuflügler		Überordnung		Bodenläuse, Fangschrecken, Flöhe, Fransenflügler, Fächerflügler, Gespenstschrecken, Gladiatoren, Grillenschaben, Großflügler, Hautflügler, Heuschrecken, Kamelhalsfliegen, Kurzfühlerschrecken, Käfer, Köcherfliegen, Langfühlerschrecken, Netzflügler, Ohrwürmer, Pflanzenläuse, Rundkopfzikaden, Schaben, Scheidenschnäbler, Schmetterlinge, Schnabelfliegen, Schnabelkerfe, Spitzkopfzikaden, Staubläuse, Steinfliegen, Tarsenspinner, Termiten, Tierläuse, Wanzen, Zweiflügler	Fluginsekten	
+Pterygota	Fluginsekten		Unterklasse		Eintagsfliegen, Libellen, Neuflügler	Insekten	
+Insecta	Insekten		Klasse		Felsenspringer, Fischchen, Fluginsekten	Sechsfüsser	
+Hexapoda	Sechsfüsser		Unterstamm		Insekten, Sackkiefler	Gliederfüsser	
+Arthropoda	Gliederfüsser		Stamm		Krebstiere, Sechsfüsser, Kieferklauenträger, Tausendfüsser	Panarthropoda	
+Panarthropoda					Bärtierchen, Stummelfüsser, Gliederfüsser	Häutungstiere	
+Ecdysozoa	Häutungstiere		Überstamm		Czcloneuralia, Panarthropoda	Urmünder	
+Cycloneuralia					Nematoida, Scalidophora	Häutungstiere	
+Nematoida					Fadenwürmer, Saitenwürmer	Cycloneuralia	
+Scalidophora					Korsetttierchen, Priapswürmer, Saitenwürmer	Cycloneuralia	
+Protostomia	Urmünder				Häutungstiere, Lophotrochozoen, Plattwurmartige	Zweiseitentiere	
+Lophotrochozoen			Überstamm		Armfüsser, Igelwürmer, Moostierchen, Ringelwürmer, Schnurwürmer, Weichtiere	Urmünder	
+Mollusca	Weichtiere		Stamm		Schalenweichtiere, Stachelweichtiere		
+Conchifera	Schalenweichtiere		Unterstamm		Einschaler, Kahnfüsser, Kopffüsser, Muscheln, Schnecken	Weichtiere	
+Aculifera	Stachelweichtiere		Unterstamm		Furchenfüsser, Käferschnecken, Schildfüsser	Weichtiere	
+Bilateria	Zweiseitentiere				Neumünder, Urmünder, Xenacoelomorpha	Gewebetiere	
+Chelicerata	Kieferklauenträger		Unterstamm		Asselspinnen, Geißelskorpione, Geißelspinnen, Kapuzenspinnen, Milben, Palpenläufer, Pfeilschwanzkrebse, Pseudoskorpione, Skorpione, Walzenspinnen, Weberknechte, Webspinnen	Gliederfüsser	
+Myriapoda	Tausendfüsser		Unterstamm		Doppelfüßer, Hundertfüßer, Wenigfüßer, Zwergfüßer	Gliederfüsser	
+Crustacea	Krebstiere		Unterstamm		Cephalocarida, Höhere Krebse, Kiemenfusskrebse, Maxillopoda, Muschelkrebse, Remipedia	Gliederfüsser	
+Malacostraca	Höhere Krebse		Klasse		Eumalacostraca, Hoplocarida, Phyllocarida		
+Hoplocarida			Unterklasse		Fangschreckenkrebse	Höhere Krebse	
+Eumalacostraca			Unterklasse		Eucarida, Ranzenkrebse, Syncarida	Höhere Krebse	
+Phyllocarida			Unterklasse		Lepostraca	Höhere Krebse	
+Eucarida			Überordnung		Amphiondacea, Leuchtgarnelen, Zehnfusskrebse	Eumalacostraca	
+Peracarida	Ranzenkrebse		Überordnung		Asseln, Cumacea, Flohkrebse, Lophogastrida, Mictacea Scherenasseln, Schwebegarnelen, Spelaeogriphacea, Thermosbaenacea	Eumalacostraca	
+Syncarida			Überordnung		Anaspidacea, Brunnenkrebse	Eumalacostraca	
+Ambulacraria					Kiemenlochtiere, Stachelhäuter	Neumünder	
+Chordata	Rückensaitentiere		Stamm		Manteltiere, Schädellose, Wirbeltiere	Neumünder	
+Deuterostomia	Neumünder		Überstamm		Ambulacraria, Rückensaitentiere	Zweiseitentiere	
+Vertebrata	Wirbeltiere		Unterstamm		Kiefermäuler, Rundmäuler	Chordata	leech
+Gnathostomata	Kiefermäuler		Überklasse		Chondrichthyomorphi, Teleostomi	Wirbeltiere	
+Chondrichthyomorphi			Reihe		Knorpelfische	Kiefermäuler	
+Chondrichthyes	Knorpelfische		Klasse		Euselachii, Holocephali	Chondrichthyomorphi	
+Euselachii			Unterklasse		Plattenkiemer	Knochenfische	
+Elasmobranchii			Teilklasse		Haie, Rochen	Euselachii	
+Teleostomi					Euteleostomi, Stachelhaie	Kiefermäuler	
+Sarcopterygii	Fleischflosser		Klasse		Landwirbeltiere, Lungenfische, Quastenflosser	Euteleostomi	
+Actinopterygii	Strahlenflosser		Klasse		Cladistia, Knorpelganoiden, Neuflosser	Euteleostomi	
+Cladista			Unterklasse		Flösselhechtartige		
+Chondrostei	Knörpelganoiden		Unterklasse		Störartige	Strahlenflosser	
+Neoptergygii	Neuflosser		Unterklasse		Knochenganoiden, Echte Knochenfische	Strahlenflosser	
+Tetrapoda	Landwirbeltiere		Reihe		Amnioten, Amphibien	Fleischflosser	leech
+Lissamphibia	Amphibien		Klasse		Froschlurche, Schleichenlurche, Schwanzlurche	Landwirbeltiere	
+Amniota	Amnioten				Sauropsida, Synapsida	Landwirbeltiere	
+Vögel			Klasse		Neukiefervögel, Urkiefervögel	Archosauria	
+Mammalia	Säugetiere		Klasse		Ursäuger, Theria	Synapsiden	
+Theria					Beutelsäuger, Höhere Säugetiere	Säugetiere	
+Eutheria	Höhere Säugetiere		Unterklasse		Afrotheria, Boreoeutheria, Nebengelenktiere	Theria	
+Xenarthra	Nebengelenktiere		Überordnung		Gepanzerte Nebengelenktiere, Zahnarme	Eutheria	
+Pilosa	Zahnarme		Ordnung		Ameisenbären, Faultiere	Nebengelenktiere	
+Afrotheria			Überordnung		Afroinsectiphilia, Paenungulata	Eutheria	
+Boreoeutheria					Euarchontoglires, Laurasiatheria	Eutheria	
+Euarchontoglires			Überordnung		Euarchonta, Glires	Boreoeutheria	
+Euarchonta					Primatomorpha, Spitzhörnchen	Euarchontoglires	
+Primatomorpha					Primaten, Riesengleiter	Euarchonta	
+Primates	Primaten		Ordnung		Feuchtnasenprimaten, Trockennasenprimaten	Primatomorpha	
+Strepsirrhini	Feuchtnasenprimaten		Unterordnung		Chiromyiformes, Primaten, Loriartige	Primaten	
+Lemuriformes	Lemuren		Teilordnung		Gewöhnliche Makis, Indriartige, Katzenmakis, Wieselmakis	Feuchtnasenprimaten	
+Haplorrhini	Trockennasenprimaten		Unterordnung		Affen, Koboldmakis		
+Anthropoidea	Affen		Teilordnung		Altweltaffen, Neuweltaffen	Trockennasenprimaten	
+Platyrrhini	Neuweltaffen				Kapuzinerartige, Klammerschwanzaffen, Krallenaffen, Nachtaffen, Sakiaffen	Affen	
+Catarrhini	Altweltaffen				Menschenartige, Meerkatzenverwandte	Affen	
+Hominoidea	Menschenverwandte		Überfamilie		Gibbons, Menschenaffen	Altweltaffen	
+Hominidae	Menschenaffen		Familie		Homininae, Orang-Utans	Menschenartige	
+Homininae			Unterfamilie		Gorillas, Menschen, Schimpansen	Menschenaffen	
+Glires	Nager				Hasenartige, Nagetiere	Euarchontoglires	
+Lagomorpha	Hasenartige		Ordnung		Hasen, Pfeiffhasen	Glires	
+Rodentia	Nagetiere		Ordnung		Biberverwandte, Dornschwanzhörnchenverwandte, Hörnchenverwandte, Mäuseverwandte, Stachelschweinverwandte		
+Laurasiatheria			Überordnung		Cetartiodactyla, Ferae, Fledertiere, Insektenfresser, Unpaarhufer	Boreoeutheria	
+Cetartiodactlyla					Paarhufer, Wale	Laurasiatheria	
+Cetacea	Wale		Ordnung		Bartenwale, Zahnwale	Cetariodactyla	
+Odontoceti	Zahnwale		Unterordnung		Amazonas-Flussdelfine, Delfine, Gangesdelfine, Gründelwale, La-Plata-Delfin, Pottwale, Schnabelwale, Schweinswale, Zwergpottwale	Wale	
+Mysticeti	Bartenwale		Unterordnung		Furchenwale, Cetotheriidae, Glattwale, Grauwale	Wale	
+Balaenopteridae	Furchenwale		Familie		Balaenoptera, Megaptera	Bartenwale	
+Megaptera			Gattung		Buckelwal	Furchenwale	
+Balaenoptera			Gattung		Blauwal, Brydewal, Finnwal, Nördlicher Zwergwal, Omurawal, Seiwal, Südlicher Zwergwal	Furchenwale	
+Ferae					Raubtiere, Schuppentiere	Laurasiatheria	
+Carnivora	Raubtiere		Ordnung		Hundeartige, Katzenartige	Ferae	
+Perissodactyla	Unpaarhufer		Ordnung		Nashörner, Pferde, Tapire	Laurasiatheria	
+Eulipotyphla	Insektenfresser		Ordnung		Igel, Maulwürfe, Schlitzrüssler, Spitzmäuse		
+Artiodactyla	Paarhufer		Ordnung		Flusspferde, Schweineartige, Schwielensohler, Wiederkäuer	Cetartiodactyla	
+Tylopoda	Schwielensohler		Unterordnung		Kamele	Paarhufer	
+Camelidae	Kamele		Familie		Altweltkamele, Neuweltkamele	Schwielensohler	
+Camelus	Altweltkamele		Gattung		Dromedar, Trampeltier	Kamele	
+Lamini	Neuweltkamele		Gattungsgruppe		Lamas, Vikunja	Kamele	
+Lama	Lamas		Gattung		Guanako, Lama	Neuweltkamele	
+Vicugna			Gattung		Alpaka, Vikunja	Neuweltkamele	
+Suina	Schweineartige		Unterordnung		Echte Schweine, Nabelschweine	Paarhufer	
+Hippopotamidae	Flusspferde		Familie		Flusspferd, Zwergflusspferd	Paarhufer	
+Ruminantia	Wiederkäuer		Unterordnung		Hirschferkel, Stirnwaffenträger	Paarhufer	
+Pecora	Stirnwaffenträger				Gabelhornträger, Giraffenartige, Hirsche, Horngträger, Moschustiere	Wiederkäuer	
+Caniformia	Hundeartige		Unterordnung		Hunde, Bären, Marderverwante, Robben	Raubtiere	
+Pinnipedia	Robben				Hundsrobben, Ohrenrobben, Walrosse	Hundeartige	
+Musteloidea	Marderverwandte		Überfamilie		Kleine Pandas, Kleinbären, Marder, Skunks	Hundeartige	
+Canidae	Hunde		Familie		Echte Füchse, Echte Hunde	Hundeartige	
+Ursidae			Famliie		Ailuropodinae, Kurzschnauzenbären, Ursinae	Hundeartige	
+Ailuropodinae			Unterfamilie		Ailuropoda	Bären	
+Ailuropoda			Gattung		Grosser Panda	Ailuropodinae	
+Tremarctinae	Kurzschnauzenbären		Unterfamilie		Tremarctos	Bären	
+Tremarctos			Gattung		Brillenbär	Kurzschnauzenbären	
+Ursinae			Unterfamilie		Helarctos, Melursus, Ursus	Bären	
+Melursus			Gattung		Lippenbär	Ursinae	
+Helarctos			Gattung		Malaienbär	Ursinae	
+Ursus			Gattung		Amerikanischer Schwarzbär, Braunbär, Eisbär, Kragenbär	Ursinae	
+Feliformia	Katzenartige		Unterordnung		Hyänen, Katzen, Lingsangs, Madagassische Raubtiere, Mangusten, Parderroller, Schleichkatzen	Raubtiere	
+Felidae	Katzen		Familie		Grosskatzen, Kleinkatzen	Katzenartige	
+Felinae	Kleinkatzen		Unterfamilie		Acinonyx, Altkatzen, Altwelt-Wildkatzen, Asiatische Goldkatzen, Caracal, Luchse, Leptailurus, Otocolobus, Pardelkatzen, Pardofelis, Pumas	Katzen	
+Acinonyx					Gepard	Kleinkatzen	
+Pantherinae	Grosskatzen		Unterfamilie		Neofelis, Panthera	Katzen	
+Panthera	Eigentliche Grosskatzen		Gattung		Jaguar, Leopard, Löwe, Schneeleopard, Tiger	Grosskatzen	
+Hystricomorpha	Stachelschweinverwandte		Unterordnung		Kammfingerartige, Laotische Felsenratte, Hystricognathi	Nagetiere	
+Hystricognathi			Teilordnung		Meerschweinchenverwandte, Phiomorpha, Stachelschweine	Hystricomorpha	
+Phiomorpha					Felsenratte, Nacktmull, Rohrratte, Sandgräber	Hystricognathi	
+Balaenidae	Glattwale		Familie		Balaena, Eubalaena	Bartenwale	
+Balaena			Gattung		Grönlandwal	Glattwale	
+Eubalaena			Gattung		Atlantischer Nordkaper, Pazifischer Nordkaper, Südkaper	Glattwale	
+Bovidae	Hornträger		Familie		Antilopinae, Bovinae	Stirnwaffenträger	
+Giraffidae	Giraffenartige		Familie		Giraffinae, Okapinae	Stirnwaffenträger	
+Giraffinae			Unterfamilie		Giraffen	Giraffidae	
+Okapinae			Unterfamilie		Okapia	Giraffenartige	
+Okapia			Gattung		Okapi	Okapinae	
+Giraffa	Giraffen		Gattung		Massai-Giraffe, Netzgiraffe, Nord-Giraffe, Süd-Giraffe	Giraffinae	
+Cervidae	Hirsche		Familie		Cervinae, Trughirsche	Stirnwaffenträger	
+Cervinae			Unterfamilie		Echte Hirsche, Muntjakhirsche	Hirsche	
+Capreolinae	Trughirsche		Unterfamilie		Alceini, Capreolini, Echte Trughirsche, Rangiferini	Hirsche	
+Alceini			Tribus		Alces	Trughirsche	
+Alces			Gattung		Elch	Alceini	
+Rangiferini			Tribus		Rangifer	Trughirsche	
+Rangifer			Gattung		Rentier	Rangiferini	
+Capreolini			Tribus		Hydropotes, Rehe	Trughirsche	
+Aculeata	Stechimmen		Teilordnung		Apoidea, Chrysidoidea, Vespoidea	Tallienwespen	
+Apoidea			Überfamilie		Bienen, Grabwespen	Stechimmen	
+Vespoidea			Überfamilie		Ameisen, Ameisenwespen, Bradynbraenidae, Dolchwespen, Faltenwespen, Keulenwespen, Rhopalosomatidae, Rollwespen, Sierolomorphidae, Wegwespen	Stechimmen	
+Vespidae	Faltenwespen		Familie		Echte Wespen, Euparagiinae, Feldwespen, Honigwespen, Solitäre Faltenwespen, Stenogastrinae	Vespoidea	
+Echte Wespen			Unterfamilie		Hornissen, Kurzkopfwespen, Langkopfwespen	Vespidae	
+Vespula	Kurzkopfwespen		Gattung		Deutsche Wespe, Gemeine Wespe, Österreichische Kuckuckswespe, Rote Wespe	Echte Wespen	
+Dolichovespula	Langkopfwespen		Gattung		Falsche Kuckuckswespe, Mittlere Wespe, Norwegische Wespe, Sächsische Wespe, Waldkuckuckswespe, Waldwespe	Echte Wespen	
+Formicidae	Ameisen		Familie		Formicoide, Leptanillinae, Martilinae, Poneroide	Vespoidea	
+Poneroide					Agroegomyrmecinae, Amblyoponinae, Proceratiinae, Urameise (Ponerinae), 24-Stunden-Ameise (Tropische Riesenameise, Bullet Ant, Paraponerinae)	Ameisen	
+Dorylomorpha	Wanderameisen				Aenictinae, Aenictogitoninae, Cerapachylinae, Dorylinae, Ecitoninae, Leptanilloidinae	Ameisen	
+Formicoide					Aneuretinae, Bulldoggename<br>isen (Myrmeciinae), Drüsenameisen (Dolichoderinae), Ectatomminae, Heteroponerinae,  Knotenameisen (Myrmicinae), Pseudomyrmecinae, Schuppenameisen (Formicinae), Wanderameisen (Dorylomorpha)	Ameisen	
+Formicinae	Schuppenameisen		Unterfamilie		Camponotini, Formicini,  Gesomyrmicini, Gigantopini, Lasiini, Melophorini, Myrmecorhynchini, Myrmelachistini, Myrmoteranini, Notostigmatini, Oecophyllini, Plagiolepidini	Formicoide	
+Oecophyllini			Gattung		Weberameisen	Formicinae	
+Euteleostomi					Fleischflosser, Strahlenflosser	Teleostomi	
+Cyclostomata	Rundmäuler		Überklasse		Neunaugen, Schleimaale	Wirbeltiere	
+Paenungulata					Thetytheria, Schliefer	Afrotheria	
+Thetytheria					Rüsseltiere, Seekühe	Paenungulata	
+Afroinsectiphilia					Afroinsectivora, Röhrenzähner	Afrotheria	
+Afroinsectivora					Rüsselspringer, Tenrekartige	Afroinsectiphilia	
+Afrosoricida	Tenrekartige		Ordnung		Goldmulle, Tenrecomorpha	Afroinsectivora	
+Tenrecomorpha					Otterspitzmaus, Tenrek	Tenrekartige	
+Tenreks	Tenrecidae		Familie		Geogalinae, Reistenreks, Igeltenreks	Tenrecomorpha	
+Oryzorictinae	Reistenreks		Unterfamilie		Kleintenrek, Nesogale, Reiswühler	Tenreks	
+Geogalinae			Unterfamilie		Geogale	Tenreks	
+Geogale			Gattung		Erdtenreks	Geogalinae	
+Tenrecinae	Igeltenreks		Unterfamilie		Grosser Igeltenrek, grosser Tenrek, kleiner Igeltenrek, Streifentenrek	Tenreks	
+Tubulidentata	Röhrenzähner		Ordnung		Orycteropodidae	Afroinsectiphilia	
+Orycteropodidae				Familie	Orycteropus	Röhrenzähner	
+Orycteropus			Gattung		Erdferkel	Orycteropus	
+Sirenia	Seekühe		Ordnung		Gabelschwanzseekühe, Rundschwanzseekühe	Thetytheria	
+Dugongidae	Gabelschwanzseekühe		Familie		Dugong	Seekühe	
+Trichaechidae	Rundschwanzseekühe		Familie		Trichechus	Seekühe	
+Trichechus			Gattung		Afrikanischer Manati, Amazonas-Manati, Karibik-Manati	Rundschwanzseekühe	
+Procaviidae	Schliefer		Ordnung		Baumschliefer, Buschschliefer, Klippschliefer	Paenungulata	
